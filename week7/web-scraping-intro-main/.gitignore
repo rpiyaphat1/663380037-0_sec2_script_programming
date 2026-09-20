@@ -1,0 +1,13 @@
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# IDE settings & output data
+.vscode/
+data/
